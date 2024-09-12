@@ -287,7 +287,8 @@ a {
 
 .pokemon-page-stats table .bar div {
   width: 0px;
-  height: 10px;
+  height: 13px;
+  background-color: #0dc80d;
 }
 .pokemon-main-content table{
   border-collapse: collapse;
